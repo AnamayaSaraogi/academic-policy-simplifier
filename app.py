@@ -21,6 +21,7 @@ from difflib import SequenceMatcher
 nlp = spacy.load("en_core_web_sm")
 
 nltk.download('punkt')
+nltk.download('punkt_tab')
 nltk.download('stopwords')
 nltk.download('vader_lexicon')
 
