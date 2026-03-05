@@ -3,8 +3,7 @@
 Academic Policy Simplifier is an AI-powered Streamlit application that analyzes institutional policy documents (PDF or text) and transforms them into structured, searchable, and understandable insights.
 
 Live Application:
-https://academic-policy-simplifier.streamlit.app/
-
+https://academic-policy-simplifier-j352y54z6eeykrxzxzk5cd.streamlit.app/
 ---
 
 ## Overview
@@ -129,30 +128,8 @@ streamlit run app.py
 The application is deployed on Streamlit Community Cloud.
 
 Live URL:
-https://academic-policy-simplifier.streamlit.app/
+https://academic-policy-simplifier-j352y54z6eeykrxzxzk5cd.streamlit.app/
 
----
-
-## Academic Relevance
-
-This project demonstrates applied concepts from:
-
-- Natural Language Processing
-- Information Retrieval
-- Semantic Similarity
-- Text Mining
-- Document Intelligence Systems
-- Human-Centered AI Interfaces
-
-Suitable for:
-- MCA Final Year Projects
-- NLP Coursework
-- AI Application Demonstrations
-- Portfolio and Resume Projects
-
----
-
-## Future Enhancements
 
 - Conflict detection between rules
 - Risk-level highlighting of penalties
